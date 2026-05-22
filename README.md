@@ -30,20 +30,6 @@
 
 ---
 
-## Table of Contents
-
-- [Projects](#projects--labs)
-   - [Beginner Projects](#projects--labs)
-   - [Intermediate Projects](#projects--labs)
-   - [Advanced Projects](#projects--labs)
-- [Labs & Simulations](#labs--simulations)
-- [Tools & Technologies](#tools--technologies)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Projects & Labs
 
 A personal collection of hands on IT Help Desk and technical support projects I've completed (or am working on) to gain real world troubleshooting and system administration experience. Each project includes detailed documentation, screenshots, tools used, troubleshooting steps, and lessons learned.
