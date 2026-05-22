@@ -52,12 +52,9 @@ A personal collection of hands on IT Help Desk and technical support projects I'
 |---|-------|-------------|-----------|-------------|---------|-------------|
 | 1 | Active Directory Home Lab | Beginner | Windows Server | Configured Active Directory, created users/groups, and managed permissions in a Windows Server environment | Completed | [View](https://github.com/ToastedXi/HelpDesk-Projects/tree/5bd601d51f9adae08de94a1de68d8730cbcf3af0/Active%20Directory%20Lab%20) |
 | 2 | Ticketing System Simulation | Beginner | IT Support | Simulated help desk tickets and documented troubleshooting workflows using a ticketing system | Planned | [View]() |
-| 3 | Windows 11 Troubleshooting Lab | Beginner | Desktop Support | Diagnosed and resolved common Windows 11 issues including drivers, updates, and networking problems | Planned | [View]() |
-| 4 | Office 365 User Management | Intermediate | Microsoft 365 | Managed users, password resets, MFA setup, and group permissions in Microsoft 365 Admin Center | Planned | [View]() |
-| 5 | Networking Troubleshooting Lab | Intermediate | Networking | Used ping, ipconfig, tracert, nslookup, and Wireshark to diagnose connectivity issues | Planned | [View]() |
-| 6 | PowerShell Automation Scripts | Intermediate | Automation | Created PowerShell scripts to automate repetitive IT support tasks and system checks | Planned | [View]() |
+| 3 | Identity and Access Management | Intermediate | IAM | Built centralized IAM homelab with Authentik for SSO (OIDC/SAML/LDAP) + MFA across Proxmox, TrueNAS, Jellyfin, Nextcloud and other services. Diagnosed and resolved common Windows 11 issues including drivers, updates, and networking problems | Planned | [View]() |
 
-> **Progress**: 1 Completed • 0 In Progress • 5 Planned  
+> **Progress**: 1 Completed • 0 In Progress • 2 Planned  
 > Last updated: May 2026
 
 ---
