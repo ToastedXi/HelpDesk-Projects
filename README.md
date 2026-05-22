@@ -1,4 +1,4 @@
-![IT Help Desk Banner](https://i.pinimg.com/1200x/97/d0/56/97d0561be61dc6c301c2f32749a723b6.jpg)
+![IT Help Desk Banner](https://img.freepik.com/premium-vector/help-desk-banner-web-icon-vector-illustration-information-support_760404-389.jpg)
 <!-- Replace image later with an IT/helpdesk themed banner if desired -->
 
 <div align="center">
@@ -21,9 +21,6 @@
 [![Advanced Projects](https://img.shields.io/badge/Advanced-Projects-red)]()
 
 <br>
-
-[![CompTIA A+](https://img.shields.io/badge/Certification-CompTIA_A%2B-brightgreen?style=flat-square)]()
-[![Google IT Support](https://img.shields.io/badge/Certification-Google_IT_Support-blue?style=flat-square)]()
 
 </div>
 
