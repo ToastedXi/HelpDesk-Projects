@@ -1,4 +1,8 @@
+<div align="center">
+
 ![IT Help Desk Banner](https://img.freepik.com/premium-vector/help-desk-banner-web-icon-vector-illustration-information-support_760404-389.jpg)
+
+</div>
 <!-- Replace image later with an IT/helpdesk themed banner if desired -->
 
 <div align="center">
