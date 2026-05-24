@@ -329,15 +329,14 @@ Screenshots of the lab environment can be found inside the:
 
 folder.
 
-Included screenshots:
-- Zammad dashboard
-- Docker containers running
-- Ticket creation
-- Customer ticket responses
-- Active Directory administration
-- Windows 11 client workstation
-- Ubuntu Server terminal
-- Ticket workflow examples
+The screenshots demonstrate:
+- Help desk dashboard monitoring
+- Ticket queue management
+- User and role administration
+- Customer-to-technician communication
+- Ticket lifecycle workflow
+- Enterprise help desk structure
+- Real-world support interaction simulation
 
 ---
 
