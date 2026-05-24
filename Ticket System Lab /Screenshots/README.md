@@ -17,7 +17,7 @@ The screenshots demonstrate:
 - Help desk dashboard monitoring
 - Ticket queue management
 - User and role administration
-- Customer to-technician communication
+- Customer to technician communication
 - Ticket lifecycle workflow
 - Enterprise help desk structure
 - Real world support interaction simulation
