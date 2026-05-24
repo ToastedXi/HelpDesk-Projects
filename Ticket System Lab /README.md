@@ -22,7 +22,7 @@ This lab was integrated with a previously built Active Directory environment to 
 
 The goals of this project were to:
 
-- Deploy a self-hosted ticketing system
+- Deploy a self hosted ticketing system
 - Learn help desk ticket workflows
 - Simulate enterprise IT support scenarios
 - Integrate Active Directory support tasks
@@ -40,7 +40,7 @@ The goals of this project were to:
 |---|---|
 | Oracle VirtualBox | Virtualization platform |
 | Windows Server 2022 | Active Directory Domain Controller |
-| Windows 11 | Domain-joined client workstation |
+| Windows 11 | Domain joined client workstation |
 | Ubuntu Server | Linux ticket system server |
 | Docker | Container platform |
 | Docker Compose | Container orchestration |
@@ -89,7 +89,7 @@ This project simulated a real enterprise IT support environment consisting of:
 
 The environment allowed us to:
 - Create and manage help desk tickets
-- Simulate end-user support requests
+- Simulate end user support requests
 - Troubleshoot Active Directory account issues
 - Practice customer communication
 - Document troubleshooting steps
@@ -250,7 +250,7 @@ Learned how enterprise ticket systems manage:
 
 One important concept learned was the difference between:
 - Internal technician notes
-- Public customer-facing responses
+- Public customer facing responses
 
 This reflects how real enterprise ticket systems operate.
 
@@ -358,4 +358,4 @@ Planned future improvements include:
 
 # Author
 
-Built as part of a hands-on IT Help Desk and system administration homelab focused on learning enterprise support workflows, Active Directory administration, Linux server management, and ticketing system operations.
+Built as part of a hands on IT Help Desk and system administration homelab focused on learning enterprise support workflows, Active Directory administration, Linux server management, and ticketing system operations.
