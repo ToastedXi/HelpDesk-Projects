@@ -38,9 +38,9 @@ A personal collection of hands on IT Help Desk and technical support projects I'
 |---|-------|-------------|-----------|-------------|---------|-------------|
 | 1 | Active Directory Home Lab | Beginner | Windows Server | Configured Active Directory, created users/groups, and managed permissions in a Windows Server environment | Completed | [View](https://github.com/ToastedXi/HelpDesk-Projects/tree/5bd601d51f9adae08de94a1de68d8730cbcf3af0/Active%20Directory%20Lab%20) |
 | 2 | Ticketing System Simulation | Beginner | IT Support | Simulated help desk tickets and documented troubleshooting workflows using a ticketing system | Completed | [View](https://github.com/ToastedXi/HelpDesk-Projects/tree/564607ce6e2a01352d388d05a38c138d4acd0c37/Ticket%20System%20Lab%20) |
-| 3 | Identity and Access Management | Intermediate | IAM | Built centralized IAM homelab with Authentik for SSO (OIDC/SAML/LDAP) + MFA across Proxmox, TrueNAS, Jellyfin, Nextcloud and other services. Diagnosed and resolved common Windows 11 issues including drivers, updates, and networking problems | Planned | [View]() |
+| 3 | Identity and Access Management | Intermediate | IAM | Built centralized IAM homelab with Authentik for SSO (OIDC/SAML/LDAP) + MFA across Proxmox, TrueNAS, Jellyfin, Nextcloud and other services. Diagnosed and resolved common Windows 11 issues including drivers, updates, and networking problems | Completed | [View](https://github.com/ToastedXi/HelpDesk-Projects/tree/d3e14fb42b4e153778776529f2b494d2a323268d/IAM%20Home%20Lab) |
 
-> **Progress**: 2 Completed • 0 In Progress • 1 Planned  
+> **Progress**: 3 Completed • 0 In Progress • 0 Planned  
 > Last updated: May 2026
 
 ---
