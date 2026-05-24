@@ -324,7 +324,7 @@ Learned the importance of:
 Screenshots of the lab environment can be found inside the:
 
 ```text
-/screenshots
+/Screenshots
 ```
 
 folder.
