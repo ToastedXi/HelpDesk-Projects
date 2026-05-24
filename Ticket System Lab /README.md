@@ -4,7 +4,7 @@
 
 This project documents the creation of a fully functional IT Help Desk ticketing system homelab using Oracle VirtualBox, Windows Server 2022, Windows 11, Ubuntu Server, Docker, and Zammad.
 
-The goal of this project was to simulate a real-world enterprise IT support environment while learning:
+The goal of this project was to simulate a real world enterprise IT support environment while learning:
 - Help Desk ticket workflows
 - Incident management
 - Active Directory troubleshooting
@@ -81,7 +81,7 @@ The goals of this project were to:
 This project simulated a real enterprise IT support environment consisting of:
 
 - A Windows Server 2022 Active Directory Domain Controller
-- A Windows 11 end-user workstation
+- A Windows 11 end user workstation
 - An Ubuntu Server running Zammad ticketing system
 - Multiple help desk support users
 - Simulated customer ticket submissions
@@ -333,10 +333,10 @@ The screenshots demonstrate:
 - Help desk dashboard monitoring
 - Ticket queue management
 - User and role administration
-- Customer-to-technician communication
+- Customer to technician communication
 - Ticket lifecycle workflow
 - Enterprise help desk structure
-- Real-world support interaction simulation
+- Real world support interaction simulation
 
 ---
 
